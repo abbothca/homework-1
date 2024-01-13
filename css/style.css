@@ -46,3 +46,9 @@ figcaption{
     text-align: center;
     color: #653393;
 }
+
+a{
+    color: #653393;
+    font-weight: 700;
+    text-decoration: none;
+}
